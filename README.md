@@ -1,7 +1,1 @@
-Hello Everyone! I'm Aarav.
-
-I am a rising highschool student. I’m passionate about space, technology, and building ideas I love. I’ve designed a satellite, built a high-end telescope, done independent research on interplanetary living, and worked on projects involving 3D printing, coding, and AI. I enjoy turning ideas into real projects and exploring new challenges.
-
-![Aarav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arvgdhi&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvgdhi&langs_count=4)
+<img width="1440" height="2732" alt="image" src="https://github.com/user-attachments/assets/88de14cb-e3be-4f11-86fd-f2fe640e902b" />
