@@ -4,7 +4,7 @@
 
 # Aarav Gandhi
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=16&duration=2800&pause=1400&color=8B949E&center=true&vCenter=true&width=460&lines=aerospace+%2F+space+tech+student;building+AI+agents+on+edge+hardware;Chennai%2C+India" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=16&duration=2800&pause=1400&color=8B949E&center=true&vCenter=true&width=520&lines=aerospace+%2F+space+tech+student%2C+IIT+Madras;building+at+the+intersection+of+space+%26+AI;currently%3A+AI+agents+on+edge+hardware;Chennai%2C+India" alt="Typing SVG" />
 
 <br/>
 
@@ -15,29 +15,45 @@
 
 </div>
 
-I'm an **IITM BS Aeronautics / Space Tech** student in Chennai. For about five years — well before any of it was coursework — I've been building things in aerospace and embedded systems: telescopes, conceptual satellites, fusion research write-ups, and now, autonomous AI agents.
+I'm an **IITM BS Aeronautics / Space Technology** student in Chennai. For about five years — well before any of it was coursework — I've been building things at the intersection of space science, AI, and hardware: a 3D-printed telescope, a conceptual satellite system, an aquaponics ecosystem, fusion energy research, and now, autonomous AI agents.
 
-I build first, write second. Most of what's below started as a weekend project that didn't work, then did.
+I take a complicated problem apart, build something real with what I learn, and write about it afterward.
 
 **Currently focused on:** AI agents running on local, edge hardware.
 
 <br/>
 
-### Pinned
+### Projects
+
+A local AI agent on a Raspberry Pi that runs tasks and holds conversations — reads and summarizes email, organizes inbox automatically, and exposes a **Discord interface built with OpenClaw**.
+
+I designed a **conceptual satellite system** covering structure, subsystem planning, power, and telemetry, built around a Raspberry Pi with multiple sensors and cameras.
+
+I designed and assembled a **custom telescope** for sky observation — most of the parts 3D-printed, Raspberry Pi–driven, usable independently up to 160x zoom.
+
+I set up **OctoPrint** to remotely monitor and control my 3D printer, checking print status in real time without being near the machine.
+
+I built a **conversational AI model** that replicates a fictional character's speech style, inspired by *Project Hail Mary* — a fine-tuned Llama 1B model I plan to run locally on a Raspberry Pi.
+
+I combined biology and engineering to build a self-sustaining **aquaponics ecosystem**, where fish and plants support each other in a closed loop.
+
+<br/>
+
+### Repositories
 
 <table>
 <tr>
 <td width="50%">
 
 **[portfoliov2](https://github.com/arvgdhi/portfoliov2)**
-Personal portfolio site — built and continuously updated.
+Personal portfolio site, built and continuously updated.
 `CSS`
 
 </td>
 <td width="50%">
 
 **[cheffy](https://github.com/arvgdhi/cheffy)**
-A TypeScript project exploring recipe / cooking workflows.
+A TypeScript project.
 `TypeScript`
 
 </td>
@@ -46,14 +62,14 @@ A TypeScript project exploring recipe / cooking workflows.
 <td width="50%">
 
 **[rainwatch](https://github.com/arvgdhi/rainwatch)**
-A lightweight weather-tracking interface.
+An HTML project.
 `HTML`
 
 </td>
 <td width="50%">
 
 **[flint](https://github.com/arvgdhi/flint)**
-A small front-end utility project.
+An HTML project.
 `HTML`
 
 </td>
@@ -71,17 +87,13 @@ A simulation exploring hypothetical outcomes between humans and a gorilla.
 
 <br/>
 
-### Off GitHub
+### Research
 
-These didn't fit in a repo — a telescope, a satellite concept, an AI agent on a Pi.
+**Interplanetary Habitats** — independent research on sustainable living systems for humans in space; findings submitted to the National Space Society (NSS) and the Council of Scientific and Industrial Research (CSIR).
 
-| | |
-|---|---|
-| **AI agent on a Raspberry Pi** | Reads and summarizes email, organizes inbox, exposed through a Discord interface |
-| **Fine-tuned Llama 1B** | Trained on a fictional character's speech patterns, inspired by *Project Hail Mary* |
-| **3D-printed telescope** | Raspberry Pi–driven, up to 160x zoom, mostly self-fabricated parts |
-| **Conceptual satellite design** | Structure, power, telemetry — built around a Pi with sensors and cameras |
-| **Femto-satellite payload** | Contributor, multi-payload student launch — Rameswaram |
+**Satellite & Payload Development** — took part in the design and assembly of ultra-light payloads and femto-satellites as part of a multi-payload student aerospace project in Rameswaram, gaining hands-on experience with payload systems, experimental design, and launch processes.
+
+**Helium-3 Energy Applications** — researched the challenges of extracting Helium-3 from the Moon and its potential as a clean energy source through fusion-based systems.
 
 <br/>
 
@@ -91,28 +103,33 @@ I write on [Medium](https://medium.com/@aaravgandhi) — mostly to think clearly
 
 - [The World of Vibecoding](https://medium.com/@aaravgandhi/the-world-of-vibecoding-c5db728dfad7)
 - [Learning to Train* an AI Model](https://medium.com/@aaravgandhi/learning-to-train-an-ai-model-aa849e0ab1ee)
-- [Stargazing on a Budget](https://medium.com/@aaravgandhi/stargazing-on-a-budget-my-middle-school-project-6f44ee8a0232)
+- [Stargazing on a Budget — My Middle School Project](https://medium.com/@aaravgandhi/stargazing-on-a-budget-my-middle-school-project-6f44ee8a0232)
+- [My Budget Lockdown Project — Aquaponics](https://medium.com/@aaravgandhi/my-budget-lockdown-project-aquaponics-a9722ed1bbb8)
 - [Helium-3: Another Reliable Source of Clean Energy](https://medium.com/@aaravgandhi/helium-3-another-reliable-source-of-clean-energy-ddc65e36761e)
-- [Inertial Confinement Fusion](https://medium.com/@aaravgandhi/inertial-confinement-fusion-the-pinhead-power-plant-dd433239c81a)
-- [Black Hole Detection via X-Rays](https://medium.com/@aaravgandhi/black-hole-detection-how-x-rays-help-us-stay-safe-in-deep-space-486c2760af66)
+- [Inertial Confinement Fusion: The Pinhead Power Plant](https://medium.com/@aaravgandhi/inertial-confinement-fusion-the-pinhead-power-plant-dd433239c81a)
+- [Black Hole Detection: How X-Rays Help Us Stay Safe in Deep Space](https://medium.com/@aaravgandhi/black-hole-detection-how-x-rays-help-us-stay-safe-in-deep-space-486c2760af66)
+- [From Bacteria to Batteries: Microbial Fuel Cells Explained](https://medium.com/@aaravgandhi/from-bacteria-to-batteries-microbial-fuel-cells-explained-0c3063ea521e)
+- [Floating Freight: The Promise of Cargo Maglev and Quantum Levitation](https://medium.com/@aaravgandhi/floating-freight-the-promise-of-cargo-maglev-and-quantum-levitation-4ced1166a876)
 
 <br/>
 
 ### Stack
 
 `Python` `TypeScript` `C` `HTML/CSS`
-`PyTorch` `Hugging Face` `LangChain`
-`Raspberry Pi` `Arduino` `Linux` `Git`
-`3D Printing` `PCB Design`
+`AI Agents` `OpenClaw` `Llama` `PyTorch`
+`Raspberry Pi` `Arduino` `micro:bit` `OctoPrint`
+`Satellite Systems` `3D Printing` `PCB Design` `Embedded Systems` `Robotics` `Propulsion Basics`
+`Git` `Linux`
 
 <br/>
 
-### Education
+### Education & Recognition
 
-- **B.S. Aeronautics / Space Technology** — IIT Madras
+- **B.S. Aeronautics / Space Technology** — IIT Madras (IITM BS)
 - **Junior Diploma in Space Science** — Space Kidz India
-- Guinness World Record participant — Largest Astronomy Lesson
-- Contributor, multi-payload femto-satellite launch — Rameswaram, 2021
+- **Guinness World Record Participant** — Largest Astronomy Lesson (Space Zone India & The Martin Group)
+- **Contributor**, multi-payload femto-satellite launch — Rameswaram, 2021
+- 5 years of IIT-level coaching in Physics, Chemistry, and Mathematics
 
 <br/>
 
@@ -129,13 +146,13 @@ I write on [Medium](https://medium.com/@aaravgandhi) — mostly to think clearly
 
 Mentoring conversations · collaborations · talking through an idea
 
-Topics: AI agents on edge hardware · small-satellite / payload design · DIY telescope builds
+Topics: AI agents on edge hardware · small-satellite & payload design · DIY telescope builds · aquaponics & closed-loop systems
 
 <br/>
 
 <div align="center">
 
-<sub>antharyatrix@gmail.com · Chennai, India</sub>
+<sub>antharyatrix@gmail.com · Discord: aerodome · Chennai, India</sub>
 
 <br/>
 
