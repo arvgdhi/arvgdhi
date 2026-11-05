@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://aaravgandhi.vercel.app">
-  <img src="assets/banner.svg" alt="Aarav Gandhi: aeronautics and space technology student at IIT Madras who builds satellites, telescopes, AI agents, rockets and robots" width="100%">
+  <img src="banner.svg" alt="Aarav Gandhi: aeronautics and space technology student at IIT Madras who builds satellites, telescopes, AI agents, rockets and robots" width="100%">
 </a>
 
 <p>
